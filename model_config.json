@@ -1,0 +1,12 @@
+{
+  "model_name": "INIKNet",
+  "in_ch": 3,
+  "base_ch": 32,
+  "num_res_unet": 2,
+  "num_res_lstm": 2,
+  "basis_num":10,
+  "max_kernel_size":15,
+  "w_max":12,
+  "w_min":2,
+  "learnable_freq":true
+}

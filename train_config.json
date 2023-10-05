@@ -1,0 +1,19 @@
+{
+  "start_epoch":0,
+  "total_epochs": 5000,
+  "sav_freq": 500,
+  "batch_size": 4,
+  "acc_step": 1,
+  "lr": 2e-4,
+  "dataset": "dpdd",
+  "img_path": "",
+  "gt_path": "",
+  "crop_size": 256,
+  "num_workers": 8,
+  "mile_stone": [1200,2400,3600],
+  "rate": 0.5,
+  "start_from_trained": false,
+  "weight_path": "",
+  "optimizer_path": "",
+  "scheduler_path": ""
+}
