@@ -1,5 +1,5 @@
 # INIKNet
-This repository contains the official pytorch implementation for INIKNet (ICCV23)
+This repository contains the official pytorch implementation for INIKNet (Single Image Defocus Deblurring via Implicit Neural Inverse Kernels, ICCV23)
 
 ## Citation
 If you find our work useful in your research, please consider citing:
