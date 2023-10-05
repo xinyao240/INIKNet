@@ -1,0 +1,14 @@
+{
+  "rtf": {
+    "img_path": "/home/lab535/data/yx/Data/RTFDataset/image/0",
+    "gt_path": "/home/lab535/data/yx/Data/RTFDataset/GT"
+  },
+  "dpdd": {
+    "img_path": "/home/lab535/data/yx/Data/dd_dp_dataset_png/test_c/source",
+    "gt_path": "/home/lab535/data/yx/Data/dd_dp_dataset_png/test_c/target"
+  },
+  "realdof": {
+    "img_path": "/home/lab535/data/yx/Data/RealDOF/source",
+    "gt_path": "/home/lab535/data/yx/Data/RealDOF/target"
+  }
+}
