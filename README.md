@@ -1,2 +1,2 @@
 # INIKNet
-This repository contains official pytorch implementation for INIKNet (ICCV23)
+This repository contains the official pytorch implementation for INIKNet (ICCV23)
