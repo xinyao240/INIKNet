@@ -4,10 +4,11 @@ This repository contains the official pytorch implementation for INIKNet (ICCV23
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@article{rao2022hornet,
-  title={HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions},
-  author={Rao, Yongming and Zhao, Wenliang and Tang, Yansong and Zhou, Jie and Lim, Ser-Lam and Lu, Jiwen},
-  journal={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2022}
+@inproceedings{quan2023single,
+  title={Single Image Defocus Deblurring via Implicit Neural Inverse Kernels},
+  author={Quan, Yuhui and Yao, Xin and Ji, Hui},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12600--12610},
+  year={2023}
 }
 ```
