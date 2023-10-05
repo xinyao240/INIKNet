@@ -229,14 +229,6 @@ class SizeGroupINRConvPolar(nn.Module):
 
 
 
-if __name__ == '__main__':
-
-    net = INIKNet(base_ch=32, basis_num=10, max_kernel_size=15, num_res_unet=2, num_res_lstm=2, w_max=12, w_min=2).cuda()
-    input = torch.randn(1, 3, 640, 640).cuda()
-    flops, params = profile(net, [input])
-    print("Number of parameter: %.2fM" % (params / 1e6))
-    print(f"FLOPs:{flops / 1e9:.2f}G")
-
 
 
 
