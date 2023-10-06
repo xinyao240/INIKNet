@@ -93,7 +93,7 @@ for epoch in range(epoch_n):
             sum_freq_loss.append(los['freq loss'].item())
 
             if ((i + 1) % train_config['acc_step']) == 0:
-                optimizer.step()  # 反向传播，更新网络参数
+                optimizer.step()  
                 optimizer.zero_grad()
 
             pbar.update(1)
